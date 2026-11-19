@@ -1,0 +1,6 @@
+{
+  "name": "Pix — João Pedro | Bio Site",
+  "description": "Bio Site moderno e seguro para pagamentos via Pix para João Pedro (Banco do Brasil), com assistente virtual por voz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
